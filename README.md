@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithm**
+- 🌱 Currently pursuing **B.Tech in 'Artificial Intelligence and Data Science' at Vishwakarma Institute of Technology, Pune**
 
-- 💬 Ask me about **flutter**
+- 💬 Ask me about **Andrid Development, Flutter (cross-platform development), Web development and much more....📌**
 
-- 📫 How to reach me **sanskargundecha803@gmail.com**
+- 📫 How to reach me **sanskar.gundecha03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
