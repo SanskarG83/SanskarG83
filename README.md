@@ -7,7 +7,7 @@
 
 - 🌱 Currently pursuing **B.Tech in 'Artificial Intelligence and Data Science' at Vishwakarma Institute of Technology, Pune**
 
-- 💬 Ask me about **Andrid Development, Flutter (cross-platform development), Web development and much more....📌**
+- 💬 Ask me about **Android Development, Flutter (cross-platform development), Web development and much more....📌**
 
 - 📫 How to reach me **sanskar.gundecha03@gmail.com**
 
