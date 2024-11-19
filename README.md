@@ -21,7 +21,6 @@
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanskarg83)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanskarg83&show_icons=true&count_private=true&hide=prs)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarg83&layout=compact)
